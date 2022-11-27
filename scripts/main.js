@@ -73,6 +73,8 @@ const movieStringer = (listsArr) => {
     }
 }
 
+const newList = filterMovies()
+
 movieStringer(watchlist)
 
 /* 
